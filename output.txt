@@ -1,158 +1,158 @@
 UserWarning: nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.
   warnings.warn("nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.")
 
-train data : tensor(0.6864, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(1.2559, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(1.0552, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(1.7312, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(1.4549, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(1.8236, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(1.5335, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(1.6749, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(1.4097, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(1.3563, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(1.1435, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.9124, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.7724, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.4208, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.3733, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.8806, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.9571, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.5534, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.6107, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.3451, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.3229, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.5533, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.4799, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.7100, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.6097, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.7646, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.6560, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.7230, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.6223, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.5986, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.5204, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.4173, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.3761, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2678, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2820, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.3353, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.4176, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.3783, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.4791, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2527, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.3098, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2741, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2796, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.3694, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.3440, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.4257, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.3878, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.4151, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.3803, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.3460, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.3286, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2550, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2696, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2103, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2688, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2304, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.3253, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2246, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.3204, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2006, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2658, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2254, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2561, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2736, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2822, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2968, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2980, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2790, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2865, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2338, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2601, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1947, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2490, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1846, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2658, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1855, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2771, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1811, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2613, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1894, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2468, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2149, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2521, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2356, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2624, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2340, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2617, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2123, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2513, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1876, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2447, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1748, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2499, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1720, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2557, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1723, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2511, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1795, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2442, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1947, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2451, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2074, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2496, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2075, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2496, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1954, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2452, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1807, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2426, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1717, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2449, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1690, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2469, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1707, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2446, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1775, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2419, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1874, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2426, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1939, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2443, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1921, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2437, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1838, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2416, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1750, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2412, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1700, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2424, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1693, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2425, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1722, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2410, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1782, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2404, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1841, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2410, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1857, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2413, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1822, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2404, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1763, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2397, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1716, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2400, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1698, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2402, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1711, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2397, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1747, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2391, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1788, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2392, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1808, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2393, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1794, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2390, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1757, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2385, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1722, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2385, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1705, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2386, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1711, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2383, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1734, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2379, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1762, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2378, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1777, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2379, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1768, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2376, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1744, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2373, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1720, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2372, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1708, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2372, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1713, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2370, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1730, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2368, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1748, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2367, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1756, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2366, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1748, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2364, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1730, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2362, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1715, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2361, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1710, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2360, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1715, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2359, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1728, grad_fn=<BinaryCrossEntropyBackward>)
-train data : tensor(0.2357, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1738, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 1 train data loss: tensor(0.6731, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(1.2612, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 2 train data loss: tensor(1.0588, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(1.7272, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 3 train data loss: tensor(1.4509, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(1.8077, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 4 train data loss: tensor(1.5194, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(1.6455, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 5 train data loss: tensor(1.3843, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(1.3133, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 6 train data loss: tensor(1.1066, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.8565, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 7 train data loss: tensor(0.7250, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.3800, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 8 train data loss: tensor(0.3447, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(1.0491, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 9 train data loss: tensor(1.1357, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.5241, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 10 train data loss: tensor(0.5778, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.3669, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 11 train data loss: tensor(0.3355, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.6031, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 12 train data loss: tensor(0.5197, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.7729, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 13 train data loss: tensor(0.6611, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.8394, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 14 train data loss: tensor(0.7175, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.8100, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 15 train data loss: tensor(0.6939, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.6964, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 16 train data loss: tensor(0.6002, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.5156, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 17 train data loss: tensor(0.4528, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.3180, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 18 train data loss: tensor(0.3044, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2788, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 19 train data loss: tensor(0.3361, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.4217, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 20 train data loss: tensor(0.5307, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.3152, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 21 train data loss: tensor(0.4022, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2428, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 22 train data loss: tensor(0.2709, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.3298, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 23 train data loss: tensor(0.3143, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.4213, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 24 train data loss: tensor(0.3834, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.4520, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 25 train data loss: tensor(0.4083, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.4149, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 26 train data loss: tensor(0.3798, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.3271, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 27 train data loss: tensor(0.3147, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2356, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 28 train data loss: tensor(0.2605, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2119, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 29 train data loss: tensor(0.2836, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2390, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 30 train data loss: tensor(0.3419, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2205, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 31 train data loss: tensor(0.3149, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2004, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 32 train data loss: tensor(0.2592, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2353, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 33 train data loss: tensor(0.2598, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2853, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 34 train data loss: tensor(0.2894, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.3047, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 35 train data loss: tensor(0.3030, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2821, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 36 train data loss: tensor(0.2881, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2337, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 37 train data loss: tensor(0.2596, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1939, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 38 train data loss: tensor(0.2488, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1848, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 39 train data loss: tensor(0.2675, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1863, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 40 train data loss: tensor(0.2799, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1813, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 41 train data loss: tensor(0.2632, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1885, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 42 train data loss: tensor(0.2468, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2144, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 43 train data loss: tensor(0.2515, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2375, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 44 train data loss: tensor(0.2630, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2387, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 45 train data loss: tensor(0.2639, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2182, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 46 train data loss: tensor(0.2534, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1918, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 47 train data loss: tensor(0.2448, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1764, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 48 train data loss: tensor(0.2485, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1726, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 49 train data loss: tensor(0.2560, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1722, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 50 train data loss: tensor(0.2534, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1771, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 51 train data loss: tensor(0.2453, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1911, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 52 train data loss: tensor(0.2440, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2063, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 53 train data loss: tensor(0.2487, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2109, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 54 train data loss: tensor(0.2507, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.2017, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 55 train data loss: tensor(0.2470, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1863, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 56 train data loss: tensor(0.2428, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1747, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 57 train data loss: tensor(0.2437, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1700, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 58 train data loss: tensor(0.2468, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1700, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 59 train data loss: tensor(0.2461, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1746, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 60 train data loss: tensor(0.2427, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1839, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 61 train data loss: tensor(0.2419, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1929, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 62 train data loss: tensor(0.2438, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1954, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 63 train data loss: tensor(0.2445, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1896, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 64 train data loss: tensor(0.2427, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1803, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 65 train data loss: tensor(0.2411, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1730, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 66 train data loss: tensor(0.2417, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1700, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 67 train data loss: tensor(0.2427, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1708, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 68 train data loss: tensor(0.2420, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1752, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 69 train data loss: tensor(0.2406, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1816, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 70 train data loss: tensor(0.2405, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1864, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 71 train data loss: tensor(0.2412, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1862, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 72 train data loss: tensor(0.2411, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1815, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 73 train data loss: tensor(0.2401, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1756, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 74 train data loss: tensor(0.2397, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1717, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 75 train data loss: tensor(0.2401, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1708, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 76 train data loss: tensor(0.2402, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1727, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 77 train data loss: tensor(0.2395, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1766, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 78 train data loss: tensor(0.2391, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1805, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 79 train data loss: tensor(0.2392, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1818, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 80 train data loss: tensor(0.2393, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1799, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 81 train data loss: tensor(0.2389, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1761, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 82 train data loss: tensor(0.2385, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1728, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 83 train data loss: tensor(0.2385, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1714, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 84 train data loss: tensor(0.2386, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1722, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 85 train data loss: tensor(0.2383, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1746, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 86 train data loss: tensor(0.2379, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1773, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 87 train data loss: tensor(0.2379, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1787, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 88 train data loss: tensor(0.2379, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1778, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 89 train data loss: tensor(0.2377, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1754, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 90 train data loss: tensor(0.2374, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1730, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 91 train data loss: tensor(0.2373, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1719, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 92 train data loss: tensor(0.2372, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1723, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 93 train data loss: tensor(0.2371, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1738, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 94 train data loss: tensor(0.2368, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1756, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 95 train data loss: tensor(0.2367, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1765, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 96 train data loss: tensor(0.2367, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1759, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 97 train data loss: tensor(0.2365, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1743, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 98 train data loss: tensor(0.2363, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1727, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 99 train data loss: tensor(0.2362, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1720, grad_fn=<BinaryCrossEntropyBackward>)
+Epoch 100 train data loss: tensor(0.2361, grad_fn=<BinaryCrossEntropyBackward>) validation loss: tensor(0.1723, grad_fn=<BinaryCrossEntropyBackward>)
 
 
 UserWarning: nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.
   warnings.warn("nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.")
 
-tensor([[[0.9934]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9948]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.3924]]], grad_fn=<SigmoidBackward>) 0
-tensor([[[0.8883]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.4895]]], grad_fn=<SigmoidBackward>) 0
-tensor([[[0.9753]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9878]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9950]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9752]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9836]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9894]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.8597]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9941]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.7577]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9848]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9318]]], grad_fn=<SigmoidBackward>) 0
-tensor([[[0.4977]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9947]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.8424]]], grad_fn=<SigmoidBackward>) 0
-tensor([[[0.9952]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9903]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9926]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.4992]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9900]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9910]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.5071]]], grad_fn=<SigmoidBackward>) 0
-tensor([[[0.9940]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9512]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9918]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9862]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9248]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9940]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9051]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.5503]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9810]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.8277]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9947]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9783]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9929]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9943]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.3798]]], grad_fn=<SigmoidBackward>) 0
+tensor([[[0.8813]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.4702]]], grad_fn=<SigmoidBackward>) 0
+tensor([[[0.9737]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9869]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9945]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9738]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9826]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9887]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.8509]]], grad_fn=<SigmoidBackward>) 1
 tensor([[[0.9936]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9724]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9209]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9956]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9759]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9960]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.4232]]], grad_fn=<SigmoidBackward>) 0
-tensor([[[0.4082]]], grad_fn=<SigmoidBackward>) 0
-tensor([[[0.9925]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9838]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.7182]]], grad_fn=<SigmoidBackward>) 1
-tensor([[[0.9951]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.7451]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9837]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9284]]], grad_fn=<SigmoidBackward>) 0
+tensor([[[0.4845]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9942]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.8329]]], grad_fn=<SigmoidBackward>) 0
+tensor([[[0.9948]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9896]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9921]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.4844]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9892]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9903]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.4910]]], grad_fn=<SigmoidBackward>) 0
+tensor([[[0.9935]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9474]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9912]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9852]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9204]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9936]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.8997]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.5319]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9798]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.8126]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9943]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9766]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9931]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9710]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9159]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9953]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9745]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9957]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.4081]]], grad_fn=<SigmoidBackward>) 0
+tensor([[[0.3986]]], grad_fn=<SigmoidBackward>) 0
+tensor([[[0.9919]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9829]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.7101]]], grad_fn=<SigmoidBackward>) 1
+tensor([[[0.9947]]], grad_fn=<SigmoidBackward>) 1
